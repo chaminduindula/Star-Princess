@@ -1,0 +1,40 @@
+{
+  "name": "🛡️Star-Princess🛡️",
+  "description": "🛡️Star-Princess🛡️ has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://i.ibb.co/X7MXN1m/0-W2-NCV6-Imgur.png",
+  "keywords": ["Princess", "bot", "whatsapp bot", "multi device", "Princess-md"],
+  "success_url": "/",
+
+  "env": {
+    "BOT_NUMBER": {
+      "description": "Put the number here.",
+      "required": true
+    },  
+
+    "PASSWORD": {
+      "description": "Enter a password of your choice here",
+      "required": true
+    },
+
+    "SESSION_ID": {
+      "description": "Enter session-id here",
+      "required": false
+    },
+    
+    "GITHUB_USERNAME": {
+      "description": "Put your github username here.",
+      "required": true
+    },
+    "GITHUB_AUTH_TOKEN": {
+      "description": "Put your github auth-token here.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-22"
+}
