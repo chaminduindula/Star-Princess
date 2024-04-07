@@ -8,7 +8,7 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/chaminduindula/Star-Princess/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Janithsadanuwan/Queen-Nilu-Md?color=white&style=flat-square"></a>
+<a href="https://github.com/chaminduindula/Star-Princess/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Janithsadanuwan/Queen-Nilu-Md?color=white&style=flat-square"></a>
 <a href="https://github.com/chaminduindula/Star-Princes/network/members"><img title="Forks" src="https://img.shields.io/github/forks/chaminduindula/Star-Princes?color=yellow&style=flat-square"></a>
 <a href="https://github.com/chaminduindula/Star-Princes/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/chaminduindula/Star-Princes?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/chaminduindula/Star-Princes/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
