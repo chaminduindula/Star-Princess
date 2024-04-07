@@ -19,7 +19,7 @@
  
 <h1 align="center">🛡️Star-Princess🛡️</h1>
 
-## [`FORK QUEEN NILU REPO`](https://github.com/chaminduindula/Star-Princess/fork)
+## [`FORK 🛡️Star-Princess🛡️`](https://github.com/chaminduindula/Star-Princess/fork)
 
 ## [`SCAN QR CODE`](https://replit.com/@chaminduindulaa/Star-Princess?v=1)
 
