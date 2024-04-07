@@ -14,3 +14,5 @@
 
 
 ## [`SCAN QR CODE`](https://replit.com/@chaminduindulaa/Star-Princess?v=1)
+
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/chaminduindula/Star-Princess&template=https://github.com/chaminduindula/Star-Princess.git)
